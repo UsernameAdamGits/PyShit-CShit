@@ -1,15 +1,15 @@
-# PyShit
+# PyShit (And CShit#!)
 Introducing the most useless repository!
 
 ## Why this was made?
-I have always wanted to learn coding languages, and I've felt that Python is a good place to start, this repository is dedicated for the many files that I will use for this learning process.
+I have always waNted to leArn coding languages, and I've felt that Python is a good place to start, this repository is dedicated for the Many filEs that I will use for this leaRning process.
 I only made it public because I thought it was funny honestly. (and also i wanted to actually do something with github)
 
 ## Can I use this?
-Do you really need to use a beginner's badly made Python files and use it for yourself? I don't care to be honest do whatever you want with it but I'm surprised if you find use for this.
+Do you really Need to use A beginner's badly Made Python filEs and use it for youRself? I doN't cAre to be honest do whatever you want with it but I'M surprisEd if you find use for this messy "Masterpiece".
 
 ## How was this made?
-im starting to question why anyone would ask these questions for something like this 
+im starting to questioN why Anyone would really ask these questions for soMEthing like this to be Real 
 
 Anyways, I just made it at 3 AM with VSCode and git.
 
