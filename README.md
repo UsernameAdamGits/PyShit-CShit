@@ -1,20 +1,17 @@
-# PyShit (And CShit#!)
-Introducing the most useless repository!
+# Welcome back, PyShit (And CShit#!)
+Re-introducing the most useless repository! Probably something more useless out there actually!
 
-## Why this was made?
-I have always waNted to leArn coding languages, and I've felt that Python is a good place to start, this repository is dedicated for the Many filEs that I will use for this leaRning process.
-I only made it public because I thought it was funny honestly. (and also i wanted to actually do something with github)
+## Why this was made? What do you mean welcome back?
+Back in July 18th 2024, I had wanted to learn coding languages, starting with Python. As a side exercise I chose to make my findings and progress into a Github repository, which eventually progressed into also including C#. It went nowhere, I forgot everything, and it had a weird storyline????? Skip to July 14th, 2025. TODAY!! 4 days until this repo's birthday! That's not a good thing, but I still care enough to relearn these languages and bring PyShit and CShitSharp back! The names are too stupid for me to change them from my young self. Sorry.
 
 ## Can I use this?
-Do you really Need to use A beginner's badly Made Python filEs and use it for youRself? I doN't cAre to be honest do whatever you want with it but I'M surprisEd if you find use for this messy "Masterpiece".
+You wouldn't want to, but you can. No need to credit me, just do whatever. They're just terribly made code files from an amateur.
 
 ## How was this made?
-im starting to questioN why Anyone would really ask these questions for soMEthing like this to be Real 
+I just made it at 3 AM with VSCode and git. Still the same thing today.
 
-Anyways, I just made it at 3 AM with VSCode and git.
+## Where can I learn Python and C# too?
+I'd recommend checking out the YouTube channel called Programming with Mosh for Python, and Brackeys (welcome back king) for C# as a start, then go towards experimenting and other tutorials, don't watch too much however.
 
-## Where can I learn Python too?
-I'd recommend checking out the YouTube channel called Programming with Mosh. They'll be your friend.
-Also experiment and stuff or you'll end up in **Tutorial Hell**.
-
-### Thanks for stepping by, my future repo(s) will probably be better than... this.
+### Thanks for stepping by, my future repo(s) will probably be better than... this. I hope.
+This had no reason to be a thing, but who cares?
